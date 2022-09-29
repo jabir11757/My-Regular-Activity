@@ -1,5 +1,8 @@
 import React, { useState } from 'react';
+import { toast } from 'react-toastify';
+import Toast from '../Toast/Toast';
 import './Cart.css'
+
 
 const Cart = (props) => {
     const { cart } = props;
@@ -19,8 +22,10 @@ const Cart = (props) => {
     }
 
     const completedActivity = () => {
-        console.log('hi')
+        const totalDuration = totalTime + selectedNumber;
+        toast("Congratulations!", totalDuration);
     }
+
 
     return (
         <div className='cart'>
@@ -59,6 +64,7 @@ const Cart = (props) => {
             </div>
 
             <button onClick={completedActivity} className='btn-activity'>Activity Completed</button>
+            <Toast completedActivity={completedActivity} ></Toast>
         </div>
     );
 };
