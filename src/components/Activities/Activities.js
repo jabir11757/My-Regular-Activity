@@ -15,10 +15,8 @@ const Activities = () => {
     }, [])
 
     const getHandlerActivity = (activity) => {
-        console.log(activity);
+        // console.log(activity);
         const newActivity = [...cart, activity];
-        // let newActivity;
-        // // const newActivity = [...activities, activity]
         setCart(newActivity)
     }
     return (
@@ -36,8 +34,7 @@ const Activities = () => {
             </div>
 
             <div className='site-cart'>
-                <h4>Selected Items:{cart.length}</h4>
-                {/* <Cart activities={activities}></Cart> */}
+                <Cart cart={cart}></Cart>
             </div>
         </div>
     );

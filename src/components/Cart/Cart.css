@@ -3,3 +3,54 @@
     top: 0;
     padding: 30px 20px;
 }
+
+.cart .break {
+    text-align: start;
+    margin-top: 10px;
+}
+
+.biography {
+    background-color: burlywood;
+    display: flex;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.biography .sub {
+    margin: 10px;
+}
+
+.cart .break {
+    margin-top: 20px;
+}
+
+.p-btn {
+    margin-top: 20px;
+}
+
+.btn-break {
+    /* border: 0; */
+    border-radius: 100px;
+    margin: 2px;
+}
+
+.exercise-detail {
+    text-align: start;
+    margin-top: 20px;
+}
+
+.exercise-detail .break-time {
+    margin-top: -5px;
+}
+
+.btn-activity {
+    width: 95%;
+    background-color: burlywood;
+    border: 0;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.btn-activity:hover {
+    background-color: orange;
+}
