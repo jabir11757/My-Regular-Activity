@@ -1,0 +1,37 @@
+[
+    {
+        "id": "6334f9d112b4c82ca2de0ed8",
+        "picture": "https://www.telegraph.co.uk/content/dam/cricket/2017/02/08/PD4832114_Action-Images_Cricket-West-Indies-V-New-Zealand-World-Cup_trans_NvBQzQNjv4BqPGVFxg_kR3LDuc5o72FjwQPOeyiktbqC97rWpHJgNgk.jpg?imwidth=450",
+        "age": 24,
+        "name": "Cricket",
+        "duration": "50m"
+    },
+    {
+        "id": "6334f9d1f861ca52f1d5cde7",
+        "picture": "https://content3.jdmagicbox.com/comp/coimbatore/p5/0422px422.x422.111003155629.c3p5/catalogue/supergym-profitness-and-k1kickboxing-chinnavedampatti-coimbatore-men-gyms-x717te1d9i.jpg?clr=3e2828",
+        "age": 38,
+        "name": "Gym",
+        "duration": "30m"
+    },
+    {
+        "id": "6334f9d1d82669cec31a6419",
+        "picture": "https://blog.bikemap.net/wp-content/uploads/2018/04/shutterstock_675381037-min-1080x675.jpg",
+        "age": 34,
+        "name": "Cycling",
+        "duration": "25m"
+    },
+    {
+        "id": "6334f9d1c80691fd133b113a",
+        "picture": "https://i.pinimg.com/originals/19/f7/a3/19f7a396952423332723ab541c53abaf.jpg",
+        "age": 29,
+        "name": "Reading",
+        "duration": "55m"
+    },
+    {
+        "id": "6334f9d1ebbc1ed3cd0f7f07",
+        "picture": "https://i0.wp.com/newsachieve.com/wp-content/uploads/2022/09/happy-man-eating-watermelon.jpg?fit=1140%2C570&ssl=1",
+        "age": 30,
+        "name": "Eating",
+        "duration": "15m"
+    }
+]
