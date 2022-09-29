@@ -1,0 +1,45 @@
+.activity {
+    border: 1px solid burlywood;
+    border-radius: 20px;
+}
+
+.activity img {
+    height: 130px;
+    width: 310px;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.activity-content {
+    margin: 0 14px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.name {
+    margin-bottom: 0;
+}
+
+.description {
+    text-align: start;
+    margin-bottom: 0;
+}
+
+.age {
+    margin-bottom: 0;
+}
+
+.button {
+    background-color: burlywood;
+    padding: .5em 1em;
+    border-radius: 5px;
+    color: white;
+    border: 0;
+    margin: 14px;
+    width: 92%;
+}
+
+.button:hover {
+    background-color: orange;
+}

@@ -4,34 +4,47 @@
         "picture": "https://www.telegraph.co.uk/content/dam/cricket/2017/02/08/PD4832114_Action-Images_Cricket-West-Indies-V-New-Zealand-World-Cup_trans_NvBQzQNjv4BqPGVFxg_kR3LDuc5o72FjwQPOeyiktbqC97rWpHJgNgk.jpg?imwidth=450",
         "age": 24,
         "name": "Cricket",
-        "duration": "50m"
+        "duration": "50m",
+        "description": "A modern day gymnasium (as gym used to be called way back in Ancient Greece) is a place for indoor physical workout where various equipment and machines are typically used."
     },
     {
         "id": "6334f9d1f861ca52f1d5cde7",
         "picture": "https://content3.jdmagicbox.com/comp/coimbatore/p5/0422px422.x422.111003155629.c3p5/catalogue/supergym-profitness-and-k1kickboxing-chinnavedampatti-coimbatore-men-gyms-x717te1d9i.jpg?clr=3e2828",
         "age": 38,
         "name": "Gym",
-        "duration": "30m"
+        "duration": "30m",
+        "description": "A modern day gymnasium (as gym used to be called way back in Ancient Greece) is a place for indoor physical workout where various equipment and machines are typically used."
     },
     {
         "id": "6334f9d1d82669cec31a6419",
         "picture": "https://blog.bikemap.net/wp-content/uploads/2018/04/shutterstock_675381037-min-1080x675.jpg",
         "age": 34,
         "name": "Cycling",
-        "duration": "25m"
+        "duration": "25m",
+        "description": "A modern day gymnasium (as gym used to be called way back in Ancient Greece) is a place for indoor physical workout where various equipment and machines are typically used."
     },
     {
         "id": "6334f9d1c80691fd133b113a",
         "picture": "https://i.pinimg.com/originals/19/f7/a3/19f7a396952423332723ab541c53abaf.jpg",
         "age": 29,
         "name": "Reading",
-        "duration": "55m"
+        "duration": "55m",
+        "description": "A modern day gymnasium (as gym used to be called way back in Ancient Greece) is a place for indoor physical workout where various equipment and machines are typically used."
     },
     {
         "id": "6334f9d1ebbc1ed3cd0f7f07",
         "picture": "https://i0.wp.com/newsachieve.com/wp-content/uploads/2022/09/happy-man-eating-watermelon.jpg?fit=1140%2C570&ssl=1",
         "age": 30,
         "name": "Eating",
-        "duration": "15m"
+        "duration": "15m",
+        "description": "A modern day gymnasium (as gym used to be called way back in Ancient Greece) is a place for indoor physical workout where various equipment and machines are typically used."
+    },
+    {
+        "id": "6334f9d1ebbc1ed3cd0f7f0",
+        "picture": "https://library.sportingnews.com/styles/crop_style_16_9_mobile_2x/s3/2021-08/joey-chestnut-030620-ftr-getty_kpw2fcnrz94e1g2ge5c1ifaec.jpg?itok=6xiS22Je",
+        "age": 30,
+        "name": "Khaowing",
+        "duration": "15m",
+        "description": "A modern day gymnasium (as gym used to be called way back in Ancient Greece) is a place for indoor physical workout where various equipment and machines are typically used."
     }
 ]
