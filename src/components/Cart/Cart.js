@@ -23,7 +23,7 @@ const Cart = (props) => {
 
     const completedActivity = () => {
         const totalDuration = totalTime + selectedNumber;
-        toast("Congratulations!", totalDuration);
+        toast("Congratulations! You are Khan Dani", totalDuration);
     }
 
 
@@ -39,12 +39,12 @@ const Cart = (props) => {
                     <p>5.5"</p>
                 </div>
                 <div className='sub'>
-                    <h6>Height</h6>
-                    <p>5.5"</p>
+                    <h6>Weight</h6>
+                    <p>55kg</p>
                 </div>
                 <div className='sub'>
-                    <h6>Height</h6>
-                    <p>5.5"</p>
+                    <h6>Age</h6>
+                    <p>24</p>
                 </div>
             </div>
 
