@@ -26,11 +26,11 @@
 
 .p-btn {
     margin-top: 20px;
+    display: inline-flex;
 }
 
 .btn-break {
     /* border: 0; */
-    display: inline-flex;
     border-radius: 100px;
     margin: 2px;
 }
